@@ -1,0 +1,17 @@
+Seaborn Plot "Families"
+
+Relational Data
+	- Scatter
+	- Line
+	
+Distribution
+	- Histograms
+	-Kernel Density Estimates
+	
+Categorical
+	-Scatter	
+		-Strip and Swarm
+	-Distribution
+		- Box and Violin
+	-Estimation
+		-Bar and Count

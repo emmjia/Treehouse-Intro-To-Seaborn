@@ -1,0 +1,28 @@
+Relational Plots
+################
+
+ScatterPlots:
+	Scatter plots are good to see correlations within data
+	
+Line Plots:
+	represents the change of one variable over a continuoust variable
+	
+
+Distribution Plots
+##################
+
+Histogram:
+	Counts the observations and places them in discrete bins
+	
+KDE (Kernel Density Estimate) Plot:
+	Visualisizes the distribution of observations in a dataset. 
+	KDE represents the data using a continuous probability density curve
+	
+	
+Categorical Plots
+#################
+
+3 subfamilies of categorical plots.
+	Categorical scatterplots
+	Categorical distribution plots
+	Categorical estimate plots
